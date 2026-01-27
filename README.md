@@ -41,4 +41,5 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 Dataset:
 
 ## License
-This repository is released under the **MIT License**. See [LICENSE](LICENSE).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
