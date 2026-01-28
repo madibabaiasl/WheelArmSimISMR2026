@@ -40,6 +40,3 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ### Sample Multimodal Dataset
 Dataset:
 
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
