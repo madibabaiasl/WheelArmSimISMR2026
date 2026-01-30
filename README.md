@@ -2,7 +2,7 @@
 
 **Authors:** Guangping Liu, Tipu Sultan, Vittorio Di Giorgio, Nick Hawkins, Flavio Esposito, Madi Babaiasl
 **Venue:** 2026 
-**Project page:** <link> | **Paper:** <pdf/arxiv link> | **Video:** https://youtu.be/2Oy2y1wrFUo
+**Paper:** https://arxiv.org/abs/2601.21129 | **Video:** https://youtu.be/2Oy2y1wrFUo
 
 ---
 
