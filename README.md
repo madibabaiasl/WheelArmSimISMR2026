@@ -37,6 +37,12 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 9. Start Collect data
 10. Stop Collect data
 
+
+### Sample Multimodal Dataset
+Dataset:https://sluedu-my.sharepoint.com/:f:/g/personal/madi_babaiasl_slu_edu/IgDx8QNfxdosTbVmpaR2oWxIAUpHtBC43cETpEb5tSiizoc?e=P4zXfh
+
+## License
+This repository is released under the **MIT License**. See [LICENSE](LICENSE).
 ### Sample Multimodal Dataset
 Dataset:
 
