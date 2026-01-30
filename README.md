@@ -43,6 +43,5 @@ Dataset:https://sluedu-my.sharepoint.com/:f:/g/personal/madi_babaiasl_slu_edu/Ig
 
 ## License
 This repository is released under the **MIT License**. See [LICENSE](LICENSE).
-### Sample Multimodal Dataset
-Dataset:
+
 
