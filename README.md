@@ -43,6 +43,6 @@ Dataset:
 https://sluedu-my.sharepoint.com/:f:/g/personal/madi_babaiasl_slu_edu/IgDx8QNfxdosTbVmpaR2oWxIAUpHtBC43cETpEb5tSiizoc?e=LhIdMo
 
 ## License
-This repository is released under the **MIT License**. See [LICENSE](LICENSE).
+This repository is released under this License: https://github.com/madibabaiasl/WheelArmSimISMR2026/blob/main/License. 
 
 
