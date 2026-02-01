@@ -1,7 +1,9 @@
 # WheelArm-Sim: A Manipulation and Navigation Combined Multimodal Synthetic Data Generation Simulator for Unified Control in Assistive Robotics
 
 **Authors:** Guangping Liu, Tipu Sultan, Vittorio Di Giorgio, Nick Hawkins, Flavio Esposito, Madi Babaiasl
-**Venue:** 2026 
+
+**Venue:** ISMR 2026 
+
 **Paper:** https://arxiv.org/abs/2601.21129 | **Video:** https://youtu.be/2Oy2y1wrFUo
 
 ---
